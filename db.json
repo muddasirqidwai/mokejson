@@ -1,0 +1,17 @@
+{
+  "error_Code": "0",
+  "error_Message": null,
+  "request_Id": "10035",
+  "tote_Id":"QW211",
+  "action":"Ignore",
+  "data":[
+        {"sku":"1","qty":1,"order_Number":"11",
+          "lastPickForOrder":0
+          
+        },
+        {
+          "sku":"1","qty":1,"order_Number":"12",
+          "lastPickForOrder":0
+        }
+    ]
+}
