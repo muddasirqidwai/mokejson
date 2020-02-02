@@ -11,8 +11,8 @@
 
 	"action":"Ignore",
 	"data":[
-			"sku":"1","qty":1,"order_Number":"1","lastPickForOrder":1,
-			"sku":"1","qty":1,"order_Number":"1","lastPickForOrder":1
+			{"sku":"1","qty":1,"order_Number":"1","lastPickForOrder":1},
+			{"sku":"1","qty":1,"order_Number":"1","lastPickForOrder":1}
 		]
 	}
 
